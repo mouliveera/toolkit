@@ -24,7 +24,7 @@ This will not work on Windows. I have tested it on both Mac and Linux and it wor
 To setup:
 
 ```
-git clone https://github.com/zpallin/toolkit
+git clone https://github.com/mouliveera/toolkit
 cd toolkit
 bash setup.sh
 ```
