@@ -1,7 +1,7 @@
 
 #
 # Zeppelin Hash
-#   by Zpallin
+#   by mveera
 #
 #   Prints a highly randomized, secure password hash to be inserted into linux /etc/shadow files. 
 #   Remember to: sudo pip install passlib
