@@ -1,6 +1,6 @@
 # System-wide .bashrc file for interactive bash(1) shells.
-# Created by zpallin/toolkit
-#   https://github.com/zpallin/toolkit
+# Created by mveera/toolkit
+#   https://github.com/mveera/toolkit
 
 # To enable the settings / commands in this file for login shells as well,
 # this file has to be sourced in /etc/profile.

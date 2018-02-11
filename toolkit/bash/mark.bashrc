@@ -1,5 +1,5 @@
 # Marks
-#   not owned by zpallin (too easy for anyone to claim as theirs)
+#   not owned by mveera (too easy for anyone to claim as theirs)
 #
 # This is a fairly straight forward way to mark your directories.
 #

@@ -6,7 +6,7 @@
 
 #BRANCH=origin/master
 #PUSH_TYPE$(git config push.default)
-#git zpallinconf
+#git mveeraconf
 #
 #if [ -z "$1" ]
 #then

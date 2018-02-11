@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-echo "STARTING zpallin/toolkit SETUP"
+echo "STARTING mveera/toolkit SETUP"
 
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 
@@ -25,7 +25,7 @@ fi
 # now, copy the bash config files
 echo " - Copying new bashrc, vimrc, and inputrc files to locations"
 cp $DIR/bash/bash.bashrc ~/.bashrc
-cp $DIR/vim/zpallin.vimrc ~/.vimrc
+cp $DIR/vim/mveera.vimrc ~/.vimrc
 cp $DIR/bash/inputrc ~/.inputrc
 
 echo " - Copying bash includes where custom code can be stored safely"
